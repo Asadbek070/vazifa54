@@ -1,0 +1,18 @@
+.container{
+    background-color: blanchedalmond;
+    gap: 95px;
+    height: 500px;
+    width: 800px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+}
+.box{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 200px;
+    background-color: orange;
+}
